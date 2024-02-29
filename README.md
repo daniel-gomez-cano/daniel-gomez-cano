@@ -2,9 +2,9 @@
 Soy Daniel Gómez Cano
 
 Can anyone help me to solve this? Thank you.
-$$
+
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
+
 <!--
 **daniel-gomez-cano/daniel-gomez-cano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
