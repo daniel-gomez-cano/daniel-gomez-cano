@@ -1,5 +1,7 @@
 ### Hi there 👋
 I'm Daniel Gómez Cano
+Esta es la cuenta de la universidad no ponerle cuidado si no es profe.
+Mi cuenta personal es la que tiene los proyectos cheveres.
 
 
 <!--
